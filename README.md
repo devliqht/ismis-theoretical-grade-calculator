@@ -28,8 +28,8 @@ A client-side script that modifies the individual grade cell values to add an ed
 	```
 
 ## Notice
-- This tool may or may not be illegal as it is a modification of ISMIS. However, this script in nature is only client-sided and does not provide any benefits, advantages or actual modifications to your real data.
-- The script presents itself as a Quality of Life (QoL) feature, similar to Canvas LMS' "what-if" test scores. It does not communicate with any servers or impose a real security threat.
+- This tool may or may not be illegal as it is a modification of ISMIS.
+- The script presents itself as a client-sided, Quality of Life (QoL) feature, similar to Canvas LMS' "what-if" test scores. It doesn't interact with the server in any unusual way after the initial page load. It doesn't attempt to impersonate, escalate privileges, or exfiltrate data.
 - The Student Manual (2023 Edition) does not mention anything regarding 'ISMIS', 'modification', 'client' other than **Article 3, Section 6 under Offenses > B. Offenses against security, safety and order**, which states:
  `unauthorized access of computer files like hacking
 and other IT-related violations`
