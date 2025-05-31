@@ -28,4 +28,10 @@ A client-side script that modifies the individual grade cell values to add an ed
 	```
 
 ## Notice
-This tool may or may not be illegal as it is a modification of ISMIS. However, this script in nature is only client-sided and does not provide any benefits, advantages or actual modifications to your real data. The script presents itself as a Quality of Life (QoL) feature, similar to Canvas LMS' "what-if" test scores. It does not communicate with any servers or impose a real security threat. If you're someone of authority who wants this script to be taken down, I will gladly comply. 
+- This tool may or may not be illegal as it is a modification of ISMIS. However, this script in nature is only client-sided and does not provide any benefits, advantages or actual modifications to your real data.
+- The script presents itself as a Quality of Life (QoL) feature, similar to Canvas LMS' "what-if" test scores. It does not communicate with any servers or impose a real security threat.
+- The Student Manual (2023 Edition) does not mention anything regarding 'ISMIS', 'modification', 'client' other than **Article 3, Section 6 under Offenses > B. Offenses against security, safety and order**, which states:
+ `unauthorized access of computer files like hacking
+and other IT-related violations`
+- ISMIS in general does not have clear '**Terms of Use/Service**' nor does USC have a clear **Acceptable Use Policy** (AUP) other than the ones listed in the Student Manual.
+- If you're someone of authority who wants this script to be taken down, please **let me know.**
