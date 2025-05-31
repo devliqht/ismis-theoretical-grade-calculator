@@ -7,6 +7,8 @@ A client-side script that modifies the individual grade cell values to add an ed
 - Grades highlighted in blue (NSTP) are not included in GPA/GWA calculation. Although they might be included in the GWA calculation since total units earned include NSTP (per observation), I'm not very sure of it since manual calculations showed a different GWA w/ NSTP. Your actual GWA might differ.
 - Idk if this is legal 
 
+![Screenshot](screenshots/screenshot.png)
+
 ## Usage
 #### Method 1 (manual)
 1. Copy the entire code from ``src/grade-calculator.js``.
