@@ -26,3 +26,6 @@ A client-side script that modifies the individual grade cell values to add an ed
 	    document.head.appendChild(script);
 	})();
 	```
+
+## Notice
+This tool may or may not be illegal as it is a modification of ISMIS. However, this script in nature is only client-sided and does not provide any benefits, advantages or actual modifications to your real data. If you're someone of authority who wants this script to be taken down, I will gladly comply. 
