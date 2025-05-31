@@ -34,4 +34,4 @@ A client-side script that modifies the individual grade cell values to add an ed
  `unauthorized access of computer files like hacking
 and other IT-related violations`
 - ISMIS in general does not have clear '**Terms of Use/Service**' nor does USC have a clear **Acceptable Use Policy** (AUP) other than the ones listed in the Student Manual.
-- If you're someone of authority who wants this script to be taken down, please **let me know.**
+- If you're someone of authority who wants this script to be taken down, please **let me know** through my email, `matt.cabarrubias@gmail.com`.
